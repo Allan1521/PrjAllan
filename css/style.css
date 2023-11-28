@@ -1,0 +1,28 @@
+/*isso é pra comentários*/
+/* teste atalho shift+alt+A */
+/* A tag do css é chamado de seletor */
+/* para mudar a formatação do texto vc usa o "ID"
+e/ou "CLASS". A diferença é : 
+ID = "somente uma vez"
+CLASS = "pode ser usado pra mais de
+um elemento"*/
+
+
+p{
+    color: Blue;
+    font-size: 50px;
+    
+}
+#primeiro{
+    color: blueviolet;
+    background-color: greenyellow ;
+}
+.segundo{
+    color: darkslategray;
+    background-color: darkturquoise;
+    /* backround permite colocar a cor de fundo*/
+
+}
+.paroxo{
+    color: deeppink;
+}
